@@ -2,6 +2,7 @@
 A random terrain generation for CMSC 491 project.
 
 The way it is layed out:
+
 Attempt1 - using material
 Attempt2 - using random float and no normals
 Attempt3 - using random float and normals
